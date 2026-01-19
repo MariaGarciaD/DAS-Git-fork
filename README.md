@@ -1,3 +1,3 @@
 Proyecto base sobre el que prácticar.
 
-Mi nombre es: María García
+Mi nombre es: Miguel Gabaldón Poncela
